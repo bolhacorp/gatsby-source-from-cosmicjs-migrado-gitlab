@@ -3,6 +3,8 @@ This repo is now deprecated. Please see the new home of the Cosmic Gatsby source
 
 # Gatsby Source for Cosmic
 
+## Repositório gitlab: https://gitlab.com/grupofleury/canais/sites/web/gatsby-source-cosmicjs
+
 Source plugin for fetching data into [Gatsby](https://www.gatsbyjs.org) from [Cosmic](https://cosmicjs.com). Cosmic offers a [Headless CMS](https://cosmicjs.com/headless-cms) for your Gatsby website.
 
 ## Install
